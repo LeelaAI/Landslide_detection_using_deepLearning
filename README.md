@@ -16,6 +16,7 @@ Language: Python
 Deep Learning Framework: PyTorch / TensorFlow
 Geospatial Tools: GDAL, Rasterio, GeoPandas
 Libraries: NumPy, Matplotlib, OpenCV
+GUI : Tkinter
 
 000000 Dataset
 [!NOTE]
@@ -42,14 +43,5 @@ pip install -r requirements.txt
 
 000000 Future Roadmap
 ********Integration of multi-temporal imagery (before and after event).
-
 ********Incorporating Digital Elevation Models (DEM) to provide topographical context.
-
-[ ] Deployment of a web-based inference tool using Streamlit.
-
-How to use this template:
-Fill in the Gaps: Replace the placeholders (like the dataset name or specific framework) with your actual project details.
-
-Add Requirements: Create a requirements.txt file in your main folder with the libraries you are using.
-
-Commit: Click the "Commit changes..." button in the top right of your screen to save it!
+********Deployment of a web-based inference tool using Streamlit.
